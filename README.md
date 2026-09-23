@@ -22,8 +22,7 @@ Water Sample → Nile Red Staining → Fluorescence Chamber → Blue LED Illumin
 
 The proposed system follows a step-by-step process for microplastic detection. A water sample is collected and treated with Nile Red dye before being introduced into a transparent chamber. Blue LED illumination is used to excite the stained particles, and a camera captures the resulting fluorescence. The captured image is then processed using a Raspberry Pi for analysis, and the detected results can be visualized through a monitoring dashboard.
 
-![FluoSense System Workflow](microplastic-detection-workflow.png)
-
+![FluoSense System Workflow](microplastic%20detection%20image.jpeg)
 ## Technical Approach
 
 1. Collect approximately 50 mL of water sample.
@@ -39,8 +38,7 @@ The proposed system follows a step-by-step process for microplastic detection. A
 
 The fluorescence image shows bright fluorescent particles against a dark background after the sample is treated with Nile Red dye and exposed to suitable illumination. This type of image provides the visual input proposed for further computer-vision-based analysis and microplastic detection.
 
-![Microplastic Fluorescence Image](microplastic-fluorescence-image.png)
-
+![Microplastic Fluorescence Image](microplastic%20particles.jpeg)
 ## Key Components
 
 - Raspberry Pi
